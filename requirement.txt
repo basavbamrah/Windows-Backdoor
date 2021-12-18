@@ -1,0 +1,10 @@
+requirements for this project are as follows
+
+pyhton modules:
+pynput 
+json
+socket
+pyautogui
+termcolor
+
+to convert .py to exe visit https://pypi.org/project/auto-py-to-exe/
